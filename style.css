@@ -84,6 +84,10 @@ body {
     color: var(--text-dark);
 }
 
+.content-socials , .rede-socials{
+    height: auto;
+}
+
 .list {
     display: flex;
     list-style: none;
